@@ -1,0 +1,57 @@
+{
+  "name": "sagar-portfolio",
+  "version": "2.0.0",
+  "description": "Premium developer portfolio for Sagar - Software Developer & Open Source Contributor",
+  "author": "Sagar (@sagar-h007)",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "framer-motion": "^11.0.28",
+    "lucide-react": "^0.344.0",
+    "next-themes": "^0.2.1",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.4.2"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "react",
+    "nextjs",
+    "tailwind",
+    "framer-motion",
+    "typescript",
+    "software-engineer",
+    "backend-developer",
+    "open-source",
+    "dark-mode",
+    "premium-design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagar-h007/portfolio"
+  },
+  "bugs": {
+    "url": "https://github.com/sagar-h007/portfolio/issues"
+  },
+  "homepage": "https://github.com/sagar-h007/portfolio#readme"
+}
