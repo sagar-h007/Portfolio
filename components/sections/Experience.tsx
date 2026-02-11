@@ -12,7 +12,7 @@ export function Experience() {
             description:
                 "Developed and maintained multiple open-source projects with focus on developer tooling. Built full-stack applications using modern JavaScript frameworks and Python.",
             highlights: [
-                "Created tools used by 500+ developers",
+                "Built open-source tools with consistent community engagement",
                 "Contributed to 15+ open-source repositories",
                 "Mentored junior developers in systems programming",
             ],

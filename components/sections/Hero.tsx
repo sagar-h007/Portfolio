@@ -163,7 +163,7 @@ export function Hero() {
                     {[
                         { value: "3+", label: "Years Experience" },
                         { value: "10+", label: "Projects" },
-                        { value: "5K+", label: "Commits" },
+                        { value: "100+", label: "Commits" },
                     ].map((stat, index) => (
                         <motion.div
                             key={index}
